@@ -1,0 +1,4 @@
+from function1 import isPrime
+from function1 import GuessTheNumber
+isPrime
+GuessTheNumber
